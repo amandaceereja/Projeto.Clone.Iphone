@@ -26,7 +26,7 @@ Este proyecto es un clon profesional y 100% responsivo de una Landing Page del I
 
 ## Vista previa
 
-![Vista del Clon del iPhone 13 Pro](img/preview.jpg)
+![Vista del clon del iPhone 13 Pro](img/preview.jpg)
 
 ---
 
