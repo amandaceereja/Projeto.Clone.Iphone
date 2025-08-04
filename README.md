@@ -1,36 +1,36 @@
-# Clone de Landing Page - iPhone 13 Pro
+# iPhone 13 Pro Landing Page Clone
 
-Este proyecto es un clon profesional y 100% responsivo de una Landing Page del Iphone 13 Pro. Fue construido con HTML, CSS y JavaScript puro, sin frameworks, con el objetivo de practicar estructura semántica, diseño visual moderno e interacciones dinámicas en frontend.
-
----
-
-## Características principales
-
-- Clon visual fiel a la estética Apple
-- Interacción dinámica para cambiar el color del producto (selector de color)
-- Diseño completamente responsivo
-- Navegación fluida con menú estructurado
-- SEO básico implementado con metaetiquetas y OpenGraph 
-- Elementos accesibles con uso de `alt`, estructura semántica y `aria`
+This project is a professional, fully responsive clone of an iPhone 13 Pro landing page. Built from scratch using pure HTML, CSS, and JavaScript, with no frameworks. It was created as a frontend exercise to practice semantic structure, modern visual design, and dynamic interactions.
 
 ---
 
-## Tecnologías utilizadas
+## Key Features
 
-- **HTML5** - estructura semántica y SEO básico
-- **CSS3** - layout responsivo, diseño visual y media queries
-- **JavaScript (ES6)** – interacción dinámica y manipulación del DOM
-- **Meta Tags / Open Graph** – optimización para redes sociales y buscadores
-
----
-
-## Vista previa
-
-![Vista del clon del iPhone 13 Pro](img/preview.jpg)
+- Visually accurate clone inspired by Apple's design
+- Dynamic color selector to switch product appearance
+- Fully responsive layout for all screen sizes
+- Smooth navigation with a structured menu
+- Basic SEO implemented using meta tags and OpenGraph
+- Accessible elements using `alt` tags, semantic HTML, and `aria` attributes
 
 ---
 
-## Estructura del proyecto
+## Technologies Used
+
+- **HTML5** – semantic structure & basic SEO
+- **CSS3** – responsive layout, modern design, media queries
+- **JavaScript (ES6)** – dynamic interactivity & DOM manipulation
+- **Meta Tags / Open Graph** – optimization for social media and search engines
+
+---
+
+## Preview
+
+![iPhone 13 Pro Clone Preview](img/preview.jpg)
+
+---
+
+## Project Structure
 Projeto.Clone.Iphone/
 ├── index.html
 ├── css/
@@ -49,14 +49,16 @@ Projeto.Clone.Iphone/
 
 ---
 
-## Licencia
+## License
 
-Este proyecto fue desarrollado con fines educativos y de portafolio personal. Inspirado en el sitio oficial de Apple.
-Todos los derechos de imagen y marca pertenecen a Apple Inc.
+This project was developed for educational and portfolio purposes only.
+Inspired by Apple’s official website.
+All image and brand rights belong to Apple Inc.
+
 
 --- 
 
-## Autora
+## Author
 
 GitHub: @amandaceereja
-Contacto: amandacereja027@outlook.com
+Contact: amandacereja027@outlook.com
